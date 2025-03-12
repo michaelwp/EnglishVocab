@@ -27,3 +27,6 @@ go.work.sum
 
 bin
 .idea
+
+generate_commits.py
+goose_pattern.txt
